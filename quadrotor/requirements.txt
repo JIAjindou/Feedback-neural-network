@@ -1,0 +1,5 @@
+casadi==3.6.7
+torch
+numpy
+scipy
+matplotlib
